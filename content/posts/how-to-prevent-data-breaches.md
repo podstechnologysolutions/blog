@@ -3,7 +3,7 @@ title: "How to Prevent Data Breaches in a Company: Practical Security Measures T
 date: "2026-03-25"
 description: "Learn how to prevent data breaches using proven cybersecurity strategies including VAPT, source code review, cloud security audits, and employee training."
 tags: ["data-breach-prevention", "cybersecurity", "vapt", "cloud-security", "penetration-testing"]
-coverImage: "/content/posts/data-breach.jpg"
+coverImage: "https://res.cloudinary.com/daqlbwzom/image/upload/v1774448172/data-breach_bumxni.jpg"
 ---
 
 # How to Prevent Data Breaches in a Company: Practical Security Measures That Actually Work
@@ -12,7 +12,7 @@ coverImage: "/content/posts/data-breach.jpg"
 
 ## 🔐 Introduction
 
-![Data Security Overview](/content/posts/data-breach.jpg)
+![Data Security Overview](https://res.cloudinary.com/daqlbwzom/image/upload/v1774448172/data-breach_bumxni.jpg)
 
 In today’s rapidly evolving digital ecosystem, data breaches are becoming increasingly common across web applications, cloud infrastructures, and APIs.
 
@@ -68,7 +68,7 @@ Cyberattacks typically follow this pattern:
 2. Exploitation  
 3. Data Exfiltration  
 
-![Data Breach Attack Flow](/content/posts/attack-flow.jpg)
+![Data Breach Attack Flow](https://res.cloudinary.com/daqlbwzom/image/upload/v1774448164/attack-flow_izycbk.jpg)
 
 ---
 
